@@ -1,6 +1,6 @@
 package DSAConcepts;
 import java.util.Arrays;
-public class ARRAYSBASIC {
+public class Arrays_Basics {
     public static void main(String[] args) {
 
         /*
