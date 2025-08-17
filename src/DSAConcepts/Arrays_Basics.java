@@ -16,8 +16,8 @@ public class Arrays_Basics {
         int[] roll ;           //declaration --> at compile time in stack memory
         roll = new int[5];     //object is being created in the heap memory(actual) -->at run time(INITIALISATION)(DYNAMIC MEMORY ALLOCATION)
         System.out.println(Arrays.toString(roll_number2));
-        System.out.println(roll_number[0]);
-        String[] name = new String[5];  //---->0
+        System.out.println(roll_number[0]);   //---->0
+        String[] name = new String[5];  
         System.out.println(name[0]);    //----> null
 
 
